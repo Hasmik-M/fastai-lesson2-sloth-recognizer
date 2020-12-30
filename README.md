@@ -1,1 +1,1 @@
-# fastai-lesson2-sloth-recognizer
+# fastai-lesson2-sloth-state-classifier
